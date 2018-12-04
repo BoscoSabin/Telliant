@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">TelliantTask</string>
+    <string name="title_home">Home</string>
+    <string name="title_consultations">Consultations</string>
+    <string name="med_rec">Med.Record</string>
+    <string name="user">Jeniferospin</string>
+    <string name="consultations">Consultations</string>
+    <string name="gender_age">%1s.%2s</string>
+
+
+    <string-array name="patient_name">
+        <item>Jeniferospin</item>
+        <item>John</item>
+        <item>Catalina</item>
+        <item>Cristobal</item>
+        <item>Ethan</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Female</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Male</item>
+    </string-array>
+    <string-array name="age">
+        <item>28 years old</item>
+        <item>27 years old</item>
+        <item>23 years old</item>
+        <item>16 years old</item>
+        <item>40 years old</item>
+    </string-array>
+
+    <string-array name="country">
+        <item>Georgia</item>
+        <item>India</item>
+        <item>France</item>
+        <item>England</item>
+        <item>Canada</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>All</item>
+        <item>Waiting Room</item>
+        <item>In Progress</item>
+        <item>Completed</item>
+        <item>Taking Assignment</item>
+        <item>Scheduled</item>
+        <item>Checked In</item>
+    </string-array>
+
+
+    <string-array name="status">
+        <item>Completed</item>
+        <item>In Progress</item>
+        <item>Waiting Room</item>
+        <item>Postpone</item>
+        <item>Completed</item>
+        <item>In Progress</item>
+        <item>Waiting Room</item>
+        <item>Postpone</item>
+        <item>Completed</item>
+        <item>In Progress</item>
+    </string-array>
+    <string-array name="type">
+        <item>Medical</item>
+        <item>Behavioral</item>
+        <item>Medical</item>
+        <item>Behavioral</item>
+        <item>Medical</item>
+        <item>Behavioral</item>
+        <item>Medical</item>
+        <item>Behavioral</item>
+        <item>Medical</item>
+        <item>Behavioral</item>
+    </string-array>
+    <string-array name="timing">
+        <item>Asthma - 06/10/2018 at 06:32:42 PM</item>
+        <item>Cold store - 05/22/2018 at 08:51:19 PM</item>
+        <item>Fever - 09/12/2018 at 10:32:42 AM</item>
+        <item>Head Ache - 02/25/2018 at 03:51:19 PM</item>
+        <item>Back Pain - 07/18/2018 at 09:32:42 AM</item>
+        <item>Cold store - 05/22/2018 at 08:51:19 PM</item>
+        <item>Asthma - 06/10/2018 at 06:32:42 PM</item>
+        <item>Cold store - 05/22/2018 at 08:51:19 PM</item>
+        <item>Head Ache - 02/25/2018 at 03:51:19 PM</item>
+        <item>Fever - 09/12/2018 at 10:32:42 AM</item>
+
+    </string-array>
+
+    <string-array name="reported">
+        <item>Completed by Shuntoya Chatman</item>
+        <item>Assigned to Jacquelyn Daniel</item>
+        <item>Assigned to Peter hegin</item>
+        <item>Assigned to Jacquelyn Daniel</item>
+        <item>Completed by Jerome</item>
+        <item>Assigned to Jacquelyn Daniel</item>
+        <item>Assigned to Perter hegin</item>
+        <item>Assigned to Rehim</item>
+        <item>Completed by George kerin</item>
+        <item>Assigned to Jacquelyn Daniel</item>
+    </string-array>
+    <string-array name="created">
+        <item>Created by Chandrakumar seker</item>
+        <item>Created by Chandrakumar seker</item>
+        <item>Created by John Bosco</item>
+        <item>Created by Balaji Ram</item>
+        <item>Created by Chandrakumar seker</item>
+        <item>Created by Chandrakumar seker</item>
+        <item>Created by John Bosco</item>
+        <item>Created by Chandrakumar seker</item>
+        <item>Created by Chandrakumar seker</item>
+        <item>Created by Balaji Ram</item>
+
+    </string-array>
+
+</resources>

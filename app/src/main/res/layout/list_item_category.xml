@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_margin="5dp"
+    android:id="@+id/tvCategory"
+    android:layout_height="wrap_content"
+    android:background="@drawable/corner_rectangle_selected"
+    android:paddingBottom="6dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="6dp"
+    android:text="All"
+    android:textSize="13sp"
+    android:textColor="@android:color/white"
+    android:textStyle="bold"
+    android:typeface="monospace">
+
+</TextView>
